@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I’m Monet
 
-<!--
-**kokotu25/kokotu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Newbie in data analysis — learning one query at a time.  
+🔍 Exploring **SQL**, **Python**, and **Power BI** with curiosity and coffee.  
+💡 Turning confusion into insight (eventually).
 
-Here are some ideas to get you started:
+Still figuring things out, but enjoying the process!  
+Let’s connect, share, and grow together 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Current Focus:**
+- Building a solid foundation in SQL
+- Learning Python for data analysis
+- Creating simple dashboards that make sense
+
+🧠 *Always learning. Always Googling.*
